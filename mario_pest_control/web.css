@@ -1,5 +1,15 @@
-.goomba {padding:25px;}
+#goombas {padding:50px;
+margin-left: 400px;}
 
-.bomb-ombs{padding:25px;}
+.bomb-ombs{padding:50px;
+margin-left: 400px;}
 
-.cheepcheeps{padding:25px;}
+.cheepcheeps{padding:50px;
+    margin-left: 400px;}
+
+footer {margin-top:50px;
+    margin-left:0px;}
+
+h1 {margin-left:600px;
+    font-size: 50px;
+}
